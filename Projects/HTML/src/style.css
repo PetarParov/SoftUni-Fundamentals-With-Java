@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+ol {
+font-style: inherit;
+}
+li {
+    font-size: medium;
+    color: blueviolet;
+}
