@@ -26,6 +26,7 @@ public class ValidatePassword_06 {
                     if (Character.isDigit(symbol)) {
                         //цифра
                         sbCategory.append(symbol);
+
                     }
                 }
                 //isEmpty <=> дължина == 0
